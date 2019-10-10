@@ -7,10 +7,10 @@
 </div>
 
 ## :page_with_curl: _About_
-- This is a user and article recommendation API built using the database dump from [Lucid]()
-- There is a limitation on the API being used on Windows due to the fact of the unavailability of Turicreate on Windows
+- This is a user and article recommendation API built using the database dump from [Lucid](https://lucid.blog)
+- There is a limitation on the API being used on Windows due to the fact of the unavailability of [Turicreate](https://github.com/apple/turicreate) on Windows
 - The API can be used on Linux, Mac and Windows WSL.
-- For those that do not have the above mentioned options, Docker procedures are available for building Docker image and running the container
+- For those that do not have the above mentioned options, [Docker](https://www.docker.com) procedures are available for building Docker image and running the container
 
 ## :page_with_curl: _Installation Guide For Linux, Mac and Windows WSL_
 
