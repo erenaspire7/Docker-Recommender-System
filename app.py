@@ -16,7 +16,7 @@ MYDB = mysql.connector.connect(host="remotemysql.com", user="8SawWhnha4", passwd
 # The mysql engine to be queried and read
 ENGINE = create_engine('mysql+mysqlconnector://8SawWhnha4:zFvOBIqbIz@remotemysql.com/8SawWhnha4')
 
-# Queried Tables 
+# Queried Tables
 USERS = pd.read_sql_query("SELECT * FROM users", ENGINE)
 ARTICLES = pd.read_sql_query("""SELECT id AS post_id,title,content,tags FROM posts""", ENGINE)
 
