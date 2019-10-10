@@ -1,0 +1,4 @@
+mysql-connector
+sqlalchemy
+flask
+turicreate
