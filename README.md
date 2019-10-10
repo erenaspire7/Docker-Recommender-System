@@ -55,7 +55,7 @@ __`❍ docker-compose up`__
 
 **4)** Open your browser and type in this URL on procedures for running a Recommendation:
 
-__`❍ http://0.0.0.0:5000/`__
+__`❍ http://127.0.0.1:5000/`__
 
 **5)** Stop the application by running the below command from within your project directory in the second terminal, or by hitting CTRL+C in the original terminal where you started the app:
 
