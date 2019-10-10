@@ -57,7 +57,7 @@ __`❍ docker-compose up`__
 
 __`❍ http://0.0.0.0:5000/`__
 
-**3)** Stop the application by running the below command from within your project directory in the second terminal, or by hitting CTRL+C in the original terminal where you started the app:
+**5)** Stop the application by running the below command from within your project directory in the second terminal, or by hitting CTRL+C in the original terminal where you started the app:
 
 __`❍ docker-compose down`__
 
